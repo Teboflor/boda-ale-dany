@@ -1553,8 +1553,9 @@ button#play-pause.pause::after {
 .regalos {
   width: 350px;
   height: 300px;
-  top: 100px;
+  top: 150px;
   left: 20px;
+  box-shadow: none;
     }
     .ctagift{
        width: 150px;
